@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QuoteGenerator</string>
+    <string name="title_activity_quote">QuoteActivity</string>
+</resources>
